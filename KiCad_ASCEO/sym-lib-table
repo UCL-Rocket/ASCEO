@@ -10,4 +10,6 @@
   (lib (name "LDI1117-3.3H")(type "KiCad")(uri "${KIPRJMOD}/LDI1117_3_3H/LDI1117-3.3H.kicad_sym")(options "")(descr ""))
   (lib (name "SMBJ6.5A")(type "KiCad")(uri "${KIPRJMOD}/SMBJ6_5A_TR/SMBJ6.5A.kicad_sym")(options "")(descr ""))
   (lib (name "USBLC6_2SC6")(type "KiCad")(uri "${KIPRJMOD}/USBLC6_2SC6/KiCADv6/2026-01-30_20-14-37.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-01-31_22-05-36")(type "KiCad")(uri "${KIPRJMOD}/TLV9051IDBVR/KiCADv6/2026-01-31_22-05-36.kicad_sym")(options "")(descr ""))
+  (lib (name "SWT0210-045026GSA_REVA")(type "KiCad")(uri "${KIPRJMOD}/SWT0210_045026GSA/SWT0210-045026GSA_REVA.kicad_sym")(options "")(descr ""))
 )
