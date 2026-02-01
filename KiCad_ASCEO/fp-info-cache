@@ -1,4 +1,4 @@
-27220787388067218
+27243794554899964
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,27 @@ audio belton reverb
 0
 7
 7
+BMI323
+BMI323_BOS
+
+BMI323 
+0
+14
+14
+BMI323
+BMI323_BOS-L
+
+BMI323 
+0
+14
+14
+BMI323
+BMI323_BOS-M
+
+BMI323 
+0
+14
+14
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2810,6 +2831,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CUI_TB002
+CUI_TB002-500-02BE
+
+
 0
 2
 2
@@ -71812,6 +71840,27 @@ Yellow 5381 Series LED
 0
 2
 2
+LPS22HHTR
+HLGA-10L_2X2X0P73_STM
+
+LPS22HHTR 
+0
+10
+10
+LPS22HHTR
+HLGA-10L_2X2X0P73_STM-L
+
+LPS22HHTR 
+0
+10
+10
+LPS22HHTR
+HLGA-10L_2X2X0P73_STM-M
+
+LPS22HHTR 
+0
+10
+10
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -75956,6 +76005,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PJ-073
+SAMESKY_PJ-073
+
+
+0
+3
+3
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -98664,6 +98720,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SWT0210
+SW_SWT0210-045026GSA_REVA
+
+
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -107127,6 +107190,34 @@ igbt diode module
 0
 25
 25
+USB-miniB675031020
+CON00317_5_MOL
+
+675031020 
+0
+9
+9
+USBLC6
+SOT23-6L_STM
+
+USBLC6-2SC6 
+0
+6
+6
+USBLC6
+SOT23-6L_STM-L
+
+USBLC6-2SC6 
+0
+6
+6
+USBLC6
+SOT23-6L_STM-M
+
+USBLC6-2SC6 
+0
+6
+6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
