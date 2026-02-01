@@ -1,4 +1,4 @@
-27243794554899964
+27252644422114816
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60199,6 +60199,27 @@ ceramic
 0
 3
 3
+DRV8220
+WSON8_DSG_TEX
+
+DRV8220DSGR 
+0
+9
+9
+DRV8220
+WSON8_DSG_TEX-L
+
+DRV8220DSGR 
+0
+9
+9
+DRV8220
+WSON8_DSG_TEX-M
+
+DRV8220DSGR 
+0
+9
+9
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -70587,6 +70608,13 @@ solder jumper open
 0
 3
 3
+LDI1117
+SOT230P700X165-4N
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -98720,6 +98748,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMBJ6
+DIOM4336X265N
+
+
+0
+2
+2
 SWT0210
 SW_SWT0210-045026GSA_REVA
 

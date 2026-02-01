@@ -99,78 +99,6 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 11.43 -2.54 0)
-				(length 7.62)
-				(name "SCL/SPC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 11.43 -5.08 0)
-				(length 7.62)
-				(name "RES"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 11.43 -7.62 0)
-				(length 7.62)
-				(name "SDA/SDI/SDO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 11.43 -10.16 0)
-				(length 7.62)
-				(name "SDO/SA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at 54.61 0 180)
 				(length 7.62)
@@ -189,7 +117,92 @@
 					)
 				)
 			)
-			(pin power_out line
+		)
+		(symbol "LPS22HHTR_1_1"
+			(rectangle
+				(start 19.05 3.81)
+				(end 46.99 -13.97)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at 11.43 -2.54 0)
+				(length 7.62)
+				(name "SCL/SPC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 11.43 -5.08 0)
+				(length 7.62)
+				(name "RES"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 -7.62 0)
+				(length 7.62)
+				(name "SDA/SDI/SDO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 -10.16 0)
+				(length 7.62)
+				(name "SDO/SA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
 				(at 54.61 -2.54 180)
 				(length 7.62)
 				(name "GND"
@@ -207,7 +220,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin passive line
 				(at 54.61 -5.08 180)
 				(length 7.62)
 				(name "GND"
@@ -225,7 +238,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 54.61 -7.62 180)
 				(length 7.62)
 				(name "INT_DRDY"
@@ -243,7 +256,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at 54.61 -10.16 180)
 				(length 7.62)
 				(name "CS"
@@ -259,19 +272,6 @@
 							(size 1.27 1.27)
 						)
 					)
-				)
-			)
-		)
-		(symbol "LPS22HHTR_1_1"
-			(rectangle
-				(start 19.05 3.81)
-				(end 46.99 -13.97)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type background)
 				)
 			)
 		)
