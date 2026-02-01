@@ -9,4 +9,7 @@
   (lib (name "BMI323")(type "KiCad")(uri "${KIPRJMOD}/BMI323/KiCADv6/BMI323.pretty")(options "")(descr ""))
   (lib (name "LPS22HHTR")(type "KiCad")(uri "${KIPRJMOD}/LPS22HHTR/KiCADv6/LPS22HHTR.pretty")(options "")(descr ""))
   (lib (name "USBLC6")(type "KiCad")(uri "${KIPRJMOD}/USBLC6_2SC6/KiCADv6/USBLC6.pretty")(options "")(descr ""))
+  (lib (name "SMBJ6")(type "KiCad")(uri "${KIPRJMOD}/SMBJ6_5A_TR/SMBJ6.pretty")(options "")(descr ""))
+  (lib (name "LDI1117")(type "KiCad")(uri "${KIPRJMOD}/LDI1117_3_3H/LDI1117.pretty")(options "")(descr ""))
+  (lib (name "DRV8220")(type "KiCad")(uri "${KIPRJMOD}/DRV8220DSGR/KiCADv6/DRV8220.pretty")(options "")(descr ""))
 )

@@ -1,0 +1,18 @@
+﻿"Symbol";"Value";"Unit";
+"att_13449d3892102d77328a243b5";"12";"";
+"REFERENCE";"SWT0210-045026GSA";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"GCT";"";
+"att_d7871411f0192653a8265019c";"Surface Mount";"";
+"att_78e62f5137bf2871ab6236944";"4.5 x 4.50mm";"";
+"att_0c6047b7a7ef6ac3a5ea79251";"260gf";"";
+"TraceParts.PartNumber";"90-30042025-061925";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Tactile Switch, 4.5 x 4.5mm, Top Actuated, Gull Wing, SPST-NO";"";
+"TraceParts.InstanceId";"90-30042025-061925WO8DSW9WQ20UHM6BLJD6D0UZ";"";
+"att_8998d0deb7d928695290c9d31";"4.5";"";
+"TraceParts.PartTitle";"SWT0210";"";
+"att_3af7a601da83f07993fbb8f06";"50";"";
+"att_e2fbdf7dcc9a419b1e1c95d21";"100000";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"att_dd45b439165e63eee139f385c";"SPST-NO";"";
