@@ -1,0 +1,24 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C2,C3,C7,C8,C9,C10,C11,C13",9,100nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+"C4,C5",2,10uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C6,C12",2,22uF,,,,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,~
+CR1,1,USBLC6-2SC6,,,,USBLC6:SOT23-6L_STM,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+"D1,D2,D3",3,D_Schottky,,,,Diode_SMD:D_SMA_Handsoldering,~
+"D4,D5",2,SMBJ6.5A,,,,SMBJ6:DIOM4336X265N,
+"D6,D7,D8",3,LED,,,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+J1,1,USB_OTG,,,,USB-miniB675031020:CON00317_5_MOL,~
+J2,1,JST-XH 6-Pin (Motor + Encoder),,,,Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,~
+J3,1,JST-XH 5-Pin (Raspberry Pi),,,,Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,~
+J4,1,Barrel_Jack,,,,PJ-073:SAMESKY_PJ-073,~
+J5,1,Screw_Terminal,,,,CUI_TB002:CUI_TB002-500-02BE,~
+R1,1,10k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+R2,1,120,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+R3,1,390,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+R4,1,65,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+SW1,1,RESET1,,,,SWT0210:SW_SWT0210-045026GSA_REVA,~
+SW2,1,BOOT1,,,,SWT0210:SW_SWT0210-045026GSA_REVA,~
+U1,1,ESP32-S3-WROOM-1-N4,,,,RF_Module:ESP32-S3-WROOM-1,
+U2,1,LDI1117-3.3H,,,,Package_TO_SOT_SMD:SOT-223,
+U3,1,BMI323,,,,BMI323:BMI323_BOS,BMI323
+U4,1,LPS22HHTR,,,,LPS22HHTR:HLGA-10L_2X2X0P73_STM,https://www.st.com/resource/en/datasheet/lps22hh.pdf
+U5,1,DRV8220DSG,,,,DRV8220:WSON8_DSG_TEX,https://www.ti.com/lit/ds/symlink/drv8220.pdf

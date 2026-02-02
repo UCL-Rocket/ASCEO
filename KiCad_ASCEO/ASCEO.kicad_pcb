@@ -81,7 +81,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -112,9 +112,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Manufacturing/")
 		)
 	)
 	(net 0 "")
@@ -505,11 +505,11 @@
 	(footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "07f4f5ca-b93c-477e-824e-061affad1459")
-		(at 127.224999 119.3443 180)
+		(at 126.424999 119.3443 180)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D7"
-			(at 0 -1.65 0)
+			(at -0.225 1.7 0)
 			(layer "F.SilkS")
 			(uuid "4ce7d002-7bb1-4a17-afaa-c39835c56dad")
 			(effects
@@ -520,7 +520,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.65 0)
+			(at -0.025 1.7 0)
 			(layer "F.Fab")
 			(uuid "b4171ab4-086c-4365-944c-b4a69bc452d9")
 			(effects
@@ -3353,7 +3353,7 @@
 			(uuid "23d33b26-5d06-45fa-a7bc-7e2e86889b15")
 			(effects
 				(font
-					(size 0.787402 0.787402)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -3652,7 +3652,7 @@
 			(uuid "7953a268-628d-4b41-b676-7e56c6477f0f")
 			(effects
 				(font
-					(size 0.787402 0.787402)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -4778,8 +4778,8 @@
 		(layer "F.Cu")
 		(uuid "6ad738be-732a-49bf-a8af-86339ca1eaf3")
 		(at 124.749999 82.8443 90)
-		(property "Reference" "SW1"
-			(at -0.325 -3.385 90)
+		(property "Reference" "RESET"
+			(at -0.2 -3.4 90)
 			(layer "F.SilkS")
 			(uuid "b67e3693-3e85-4f87-9151-318b35f1d991")
 			(effects
@@ -11913,17 +11913,6 @@
 		)
 		(fp_text user "*"
 			(at -2.032 -1 0)
-			(layer "F.SilkS")
-			(uuid "448cb778-68b6-4012-b0df-9f4bc000f277")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
-			(at -2.032 -1 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "88670a68-432f-4d54-b1b2-662a39df7ef3")
@@ -12843,7 +12832,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C11"
-			(at -2.9375 0.04 0)
+			(at -3.1375 0.04 0)
 			(layer "F.SilkS")
 			(uuid "c9849cc3-5c0f-4e60-a913-200e710a712d")
 			(effects
@@ -14565,17 +14554,6 @@
 			)
 		)
 		(fp_text user "*"
-			(at -1.61925 -2.6518 0)
-			(layer "F.SilkS")
-			(uuid "9ada8354-f124-4ebd-8f95-2652215b4988")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
 			(at -0.4953 -1.4478 0)
 			(layer "F.Fab")
 			(uuid "37893e3f-8e9a-40f1-bb7e-af6e84c0e4f3")
@@ -14684,7 +14662,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at 0 -1 0)
+			(at -1.0625 1.4 0)
 			(layer "F.SilkS")
 			(uuid "bf104b83-9edf-49cd-a164-246f5a6cb361")
 			(effects
@@ -15338,8 +15316,8 @@
 		(layer "F.Cu")
 		(uuid "fbd2d906-aa45-436b-af06-be5488c89be7")
 		(at 166.749999 86.3443 180)
-		(property "Reference" "SW2"
-			(at -0.325 -3.385 0)
+		(property "Reference" "BOOT"
+			(at 0.2 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "304e771e-1930-4c04-872b-d2847be45613")
 			(effects
@@ -16640,14 +16618,6 @@
 		(uuid "24f55d58-b82e-40fe-954b-e58497b6969a")
 	)
 	(segment
-		(start 128.249999 119.3443)
-		(end 129.749999 119.3443)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "3778a403-860d-4620-987a-894bdb8584bc")
-	)
-	(segment
 		(start 143.749999 131.8443)
 		(end 148.349999 131.8443)
 		(width 0.2)
@@ -16896,6 +16866,14 @@
 		(uuid "c719afc9-d5c6-4320-8194-d1fab328f112")
 	)
 	(segment
+		(start 127.449999 119.3443)
+		(end 128.749999 119.3443)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "caf5f82e-eee5-43b3-80e4-7b1e0654ba68")
+	)
+	(segment
 		(start 137.709999 118.3043)
 		(end 137.949999 118.5443)
 		(width 0.2)
@@ -16992,6 +16970,14 @@
 		(uuid "076bdcef-c50f-4b08-9d90-7b35f54b33a5")
 	)
 	(via
+		(at 128.749999 119.3443)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 2)
+		(uuid "087f1948-0969-42d5-887b-89cf2e2f3aa8")
+	)
+	(via
 		(at 128.449999 77.4443)
 		(size 0.6)
 		(drill 0.3)
@@ -17030,14 +17016,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 2)
 		(uuid "50ad2a83-2d8d-4057-81a9-96473a9f38b2")
-	)
-	(via
-		(at 129.749999 119.3443)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 2)
-		(uuid "69c301cf-9fa7-46a1-b551-8de9a1134d59")
 	)
 	(via
 		(at 170.049999 89.3443)
@@ -17576,14 +17554,6 @@
 		(uuid "8331264f-8830-41ec-898b-e79a4c17dedb")
 	)
 	(segment
-		(start 130.849999 83.262251)
-		(end 130.849999 84.2443)
-		(width 0.3)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "90cdeb36-d6c4-4cf9-94ce-ad67015714e0")
-	)
-	(segment
 		(start 146.449999 108.3443)
 		(end 146.449999 110.7443)
 		(width 0.3)
@@ -18112,20 +18082,20 @@
 		(uuid "260b251b-2b67-48a9-98a6-13b2c198e3b7")
 	)
 	(segment
-		(start 126.199999 121.6193)
+		(start 125.399999 119.3443)
+		(end 125.399999 120.8193)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "4f9a3c2a-ea65-4ea1-8255-56f7e4984c77")
+	)
+	(segment
+		(start 125.399999 120.8193)
 		(end 126.424999 121.8443)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 10)
-		(uuid "2b45b8d0-57b8-402e-92b5-640125c8b9b8")
-	)
-	(segment
-		(start 126.199999 119.3443)
-		(end 126.199999 121.6193)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 10)
-		(uuid "b24b2ef6-6259-4e1b-a12f-f6a4fe671931")
+		(uuid "e4397985-5dd1-4b50-a001-c90801e1a484")
 	)
 	(segment
 		(start 165.299999 75.8443)
