@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "ASCEO")
-		(date "2026-01-30")
+		(date "2025-12-30")
 		(rev "A")
 		(company "UCL Rocket")
 		(comment 1 "Jonathon Cheng")

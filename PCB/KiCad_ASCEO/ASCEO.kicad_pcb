@@ -8783,7 +8783,7 @@
 			(uuid "dd9ca19a-496d-4550-b6b4-b5096c6ab6c0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/jonat/Documents/GitHub/ASCEO/Components/LPS22HHTR (1)/LPS22HHTR.STEP"
+		(model "C:/Users/jonat/Documents/GitHub/ASCEO/PCB/Components/LPS22HHTR (1)/LPS22HHTR.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10542,7 +10542,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "C:/Users/jonat/Documents/GitHub/ASCEO/Components/675031020_stp/675031020.stp"
+		(model "C:/Users/jonat/Documents/GitHub/ASCEO/PCB/Components/675031020_stp/675031020.stp"
 			(offset
 				(xyz 0 -5.9 2)
 			)
@@ -10899,7 +10899,7 @@
 			(uuid "2797e824-22c1-4bbe-ab43-b7dd435ec237")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/jonat/Documents/GitHub/ASCEO/Components/DRV8220DSGR (1)/DRV8220DSGR.step"
+		(model "C:/Users/jonat/Documents/GitHub/ASCEO/PCB/Components/DRV8220DSGR (1)/DRV8220DSGR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12085,7 +12085,7 @@
 			(uuid "54ae4d04-32a7-4fbb-a702-6fc229b174a3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/jonat/Documents/GitHub/ASCEO/Components/BMI323 (1)/BMI323.step"
+		(model "C:/Users/jonat/Documents/GitHub/ASCEO/PCB/Components/BMI323 (1)/BMI323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15543,7 +15543,7 @@
 			(uuid "ed72677f-1841-4eee-9270-f21274d73227")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/jonat/Documents/GitHub/ASCEO/Components/SWT0210_045026GSA (1)/swt0210-045026gsa.stp"
+		(model "C:/Users/jonat/Documents/GitHub/ASCEO/PCB/Components/SWT0210_045026GSA (1)/swt0210-045026gsa.stp"
 			(offset
 				(xyz 0 0 0)
 			)
